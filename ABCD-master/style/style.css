@@ -1,0 +1,11 @@
+﻿body { background-color: #FFFFCC } /* sfondo giallo chiaro */
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #996666; /* ruggine */
+}
+p {
+    height: 50%;
+  font-size: 30pt;
+  color: #096ea856;
+ }
